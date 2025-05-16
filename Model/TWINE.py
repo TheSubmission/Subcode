@@ -13,7 +13,7 @@ if __name__ == '__main__':
     num_R_linear = 0
 
     num_R_sum = num_R_color
-    num_pr = num_branch - 10
+    num_pr = num_branch - 12
     num_xor = 8
     num_roundfunc = 8
 
